@@ -1,7 +1,7 @@
-#include <iostream>
+#include <stdio.h>
 
 int main(){
-  cout<<"Hello GL" ;
+  printf("Hello GL") ;
 
   return 0 ;
 }
